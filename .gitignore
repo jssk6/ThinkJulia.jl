@@ -16,4 +16,3 @@ book/src/notes.asciidoc
 deps/usr
 deps/build.log
 deps/deps.jl
-/Manifest.toml
